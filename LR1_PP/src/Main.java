@@ -1,5 +1,6 @@
 
 import java.util.Scanner;
+
 public class Main {
 
 
@@ -21,4 +22,9 @@ public class Main {
             }
         }
     }
+}
+class FibNumber{
+    private int number;
+    private int value;
+
 }
